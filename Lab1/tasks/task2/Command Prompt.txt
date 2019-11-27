@@ -1,0 +1,19 @@
+d:
+
+cd D:\Informatica\Cursuri Uni\Anul II\Semestrul II\PAO - Java\Laborator_1\src
+
+javac tasks/task2/*.java
+
+java tasks/task2/Zoo
+
+java tasks/task2/ZooArguments test 999
+
+Environment Variables -> Path:
+D:\Program Files (x86)\Java\jdk-11.0.2\bin;
+C:\Users\Irina\Anaconda3;
+C:\Users\Irina\Anaconda3\Scripts;
+C:\Users\Irina\Anaconda3\Library\bin;
+C:\Users\Irina\AppData\Local\Microsoft\WindowsApps;
+C:\Users\Irina\AppData\Local\atom\bin;
+C:\Users\Irina\AppData\Roaming\npm;
+D:\Program Files (x86)\swipl\bin;
